@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HotelBooking</string>
+    <string name="hotel_name">The Metroplace Hotels</string>
+    <string name="_4_5_5">4.5/5</string>
+    <string name="_5">$5</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="book">Book</string>
+    <string name="more_details">More Details</string>
+    <string name="about">About</string>
+    <string name="hotel_description">This contemporary hotel is a 12-minute walk from Tiruvanmiyur railway station, 1 km from the TIDEL Park information technology park and 10 km from Golden Beach.</string>
+    <string name="check_in_time">Check in Time</string>
+    <string name="anytime_after_2_pm">Anytime after 2 pm</string>
+    <string name="check_out_time">Check out Time</string>
+    <string name="_10am">10Am</string>
+    <string name="main_amenities">Main Amenities</string>
+    <string name="booking_confirmed">Booking Confirmed!</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "amenities": [
+    {
+      "name": "600 guestrooms"
+    },
+    {
+      "name": "Near the beach"
+    },
+    {
+      "name": "11 restaurants and 4 bars/lounges"
+    },
+    {
+      "name": "Full-service spa"
+    },
+    {
+      "name": "5 outdoors pool"
+    },
+    {
+      "name": "WiFi in the loby"
+    }
+  ],
+  "hotelName": "The Metroplace Hotels",
+  "price": "5000",
+  "rating": "2/5",
+  "about": "This contemporary hotel is a 12-minute walk from Tiruvanmiyur railway station, 1 km from the TIDEL Park information technology park and 10 km from Golden Beach.",
+  "checkInTime": "Anytime after 2 pm ",
+  "checkOutTime": "10 Am",
+  "address": "Phase III, Zenith Building, Ascendas IT Park, CSIR Road, Taramani, Chennai, Tamil Nadu 600113",
+  "phoneNumber": "044 6679 8888"
+}
