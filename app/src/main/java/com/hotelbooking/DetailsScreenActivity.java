@@ -24,9 +24,9 @@ public class DetailsScreenActivity extends AppCompatActivity implements View.OnC
         book.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent bookingIntent = new Intent(DetailsScreenActivity.this, BookingScreen.class);
-                bookingIntent.putExtra(BookingScreen.HOTEL_NAME, "The Metroplace Hotels");
-                bookingIntent.putExtra(BookingScreen.ADDRESS, "Phase III, Zenith Building, Ascendas IT Park, CSIR Road, Taramani, Chennai, Tamil Nadu 600113");
+                Intent bookingIntent = new Intent(DetailsScreenActivity.this, BookingScreenActivity.class);
+                bookingIntent.putExtra(BookingScreenActivity.HOTEL_NAME, "The Metroplace Hotels");
+                bookingIntent.putExtra(BookingScreenActivity.ADDRESS, "Phase III, Zenith Building, Ascendas IT Park, CSIR Road, Taramani, Chennai, Tamil Nadu 600113");
                 startActivity(bookingIntent);
             }
         });

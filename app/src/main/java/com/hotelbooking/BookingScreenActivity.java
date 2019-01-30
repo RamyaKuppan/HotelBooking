@@ -1,10 +1,10 @@
 package com.hotelbooking;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-public class BookingScreen extends AppCompatActivity {
+public class BookingScreenActivity extends AppCompatActivity {
 
     public static String ADDRESS = "Address";
     public static String HOTEL_NAME = "Hotel Name";
@@ -16,7 +16,7 @@ public class BookingScreen extends AppCompatActivity {
         String name = getIntent().getStringExtra(HOTEL_NAME);
         String address = getIntent().getStringExtra(ADDRESS);
 
-        TextView hotelName= findViewById(R.id.hotel_name);
+        TextView hotelName = findViewById(R.id.hotel_name);
         TextView addressView = findViewById(R.id.address);
         hotelName.setText(name);
         addressView.setText(address);
